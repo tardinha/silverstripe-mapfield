@@ -1,6 +1,5 @@
 ---
 Name: mapfield
-Before: 'mysite/*'
 ---
 GoogleMap:
 # default width used for static maps, in pixels
